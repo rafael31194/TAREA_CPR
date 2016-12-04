@@ -8,6 +8,7 @@ blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
 table{border-collapse:collapse;border-spacing:0}
 h1{font-size:34px;line-height:45px}
 h2{font-size:24px;margin-bottom:20px;padding-top:20px;line-height:36px}
+
 h3{font-size:20px;margin-bottom:20px;padding-top:20px}
 h4{font-size:18px;margin-bottom:10px}
 h5{font-size:16px;margin-bottom:10px;letter-spacing:1px}
@@ -43,7 +44,6 @@ a{background:transparent}
 {
   background: #092643;
 }
-
 a:active,a:hover{outline:0}
 abbr[title]{border-bottom:1px dotted}
 b,strong{font-weight:bold}
@@ -89,6 +89,9 @@ img{max-width:100% !important}
 p,h2,h3{orphans:3;widows:3}
 h2,h3{page-break-after:avoid}
 select{background:#fff !important}
+.title-qs{
+  font-size: 1.1em;font-weight: normal;color: #bdc3c7;margin-top: -25px;}
+
 .navbar{display:none}
 .table td,.table th{background-color:#fff !important}
 .btn>.caret,.dropup>.btn>.caret{border-top-color:#000 !important}
