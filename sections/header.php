@@ -12,7 +12,7 @@
       </button>
       <div class="collapse navbar-collapse navbar-right" id="nav_bar_header">
         <ul class="nav navbar-nav" id="nav_bar_header2">
-          <li><a class="ancla" href="#empresa">LA EMPRESA</a></li>
+          <li><a class="ancla" href="#empresa">NOSOTROS</a></li>
           <li><a class="ancla" href="#servicios">SERVICIOS</a></li>
           <li><a class="ancla" href="#portafolio">PORTFOLIO</a></li>
           <li><a class="ancla" href="#clientes">CLIENTES</a></li>

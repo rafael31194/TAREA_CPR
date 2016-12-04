@@ -1,6 +1,6 @@
 <div class="container">
   <div class="title">
-    <h1>La Empresa<i>.</i></h1>
+    <h1>ITSolutions<i>.</i></h1>
     <h2>Quienes Somos</h2>
   </div>
   <div class="col-md-10 col-center" style="font-size:19px;">
