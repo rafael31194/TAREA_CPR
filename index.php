@@ -91,7 +91,7 @@
 
   <!-- TECNOLOGIAS -->
   <section class="section clients" id="tecnologias">
-    <?phpinclude('sections/tecnologias.php')?>
+    <?php include('sections/tecnologias.php')?>
   </section> <!-- section clients -->
 
   <section class="section testimonial parallax" id="testimonial"  style="background: url(assets/images/services-bg.jpg);"  data-stellar-background-ratio="0.5">
