@@ -1,3 +1,4 @@
+
 @charset "UTF-8";html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;zooom:1}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
 body{line-height:1}
@@ -24,6 +25,25 @@ audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
 audio:not([controls]){display:none;height:0}
 [hidden],template{display:none}
 a{background:transparent}
+/*Agregado por Stefhanie Rizo*/
+#header
+{
+  background: white
+}
+#contenedor-header{
+  background: white
+}
+#nav_bar_header{
+  background: white;
+}
+#nav_bar_header2{
+  background: white;
+}
+#footer
+{
+  background: #092643;
+}
+
 a:active,a:hover{outline:0}
 abbr[title]{border-bottom:1px dotted}
 b,strong{font-weight:bold}
@@ -1776,7 +1796,7 @@ H1{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .title:before,.title:after{border-top:1px solid #00b4ff;position:absolute;display:block;content:close-quote;height:2px;top:50px;width:40%;z-index:1}
 .title:before{right:0}
 .title:after{left:0}
-.title H1{font-size:2.563em;font-weight:bold;color:#045883;z-index:2;position:relative;display:inline-block;padding:0 20px}
+.title H1{font-size:2.563em;font-weight:bold;color:#092643;z-index:2;position:relative;display:inline-block;padding:0 20px}
 .title H1 I{color:#00b4ff;margin:0;padding:0}
 .title H2{font-size:1.1em;font-weight:normal;color:#bdc3c7;margin-top:-25px}
 .col-center{margin:0 auto;text-align:center;float:none}
@@ -1824,8 +1844,8 @@ H1{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .navbar{margin-top:10px;margin-bottom:10px}
 .nav-logo{display:block;margin-top:10px}
 .nav{background-color:#045883}
-.nav LI A{color:#70dcff}
-.nav LI.active A,.nav LI A:hover{color:#fff}
+.nav LI A{color:#092643}
+.nav LI.active A,.nav LI A:hover{color:#00b4ff}
 .nav A{font-weight:normal;padding:10px}
 .nav A:hover,.nav A:focus{background-color:transparent !important}
 .navbar .icon-bar{background-color:#FFF}
@@ -1853,7 +1873,7 @@ H1{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .about .hexagon-mask{margin:40px auto 0}
 .services .title:before{border-top-color:#00b4ff}
 .services .title:after{border-top-color:#00b4ff}
-.services H1{color:#045883}
+.services H1{color:#092643}
 .hexagon-service *{-webkit-transition:all 300ms ease-in-out;-moz-transition:all 300ms ease-in-out;-o-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out}
 .hexagon-service{position:relative;width:150px;height:150px;overflow:hidden;text-align:center;display:table;margin:0 auto}
 .hexagon-service .mask{width:150px;height:150px;background:url(../img/hexagon-mask.png) no-repeat center center;position:absolute;top:0;left:0;bottom:0;right:0;margin:auto;z-index:1}
