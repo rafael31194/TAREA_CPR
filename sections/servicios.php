@@ -11,7 +11,7 @@
             <div class="hexagon-service">
               <span class="num num-orange">1</span>
               <div class="img">
-                <img src="http://localhost/TAREA_CPR/uploads/img/service-net2.png" alt="">
+                <img src="//uploads/img/service-net2.png" alt="">
               </div>
               <div class="mask"></div>
             </div>
@@ -27,7 +27,7 @@
             <div class="hexagon-service">
               <span class="num num-verde">2</span>
               <div class="img">
-                <img src="http://localhost/TAREA_CPR/uploads/img/service-android.png" alt="">
+                <img src="//uploads/img/service-android.png" alt="">
               </div>
               <div class="mask"></div>
             </div>
@@ -43,7 +43,7 @@
             <div class="hexagon-service">
               <span class="num num-gris">3</span>
               <div class="img">
-                <img src="http://localhost/TAREA_CPR/uploads/img/service-ios.png" alt="">
+                <img src="//uploads/img/service-ios.png" alt="">
               </div>
               <div class="mask"></div>
             </div>
@@ -59,7 +59,7 @@
             <div class="hexagon-service">
               <span class="num num-green">4</span>
               <div class="img">
-                <img src="http://localhost/TAREA_CPR/uploads/img/service-bbwin.png" alt="">
+                <img src="//uploads/img/service-bbwin.png" alt="">
               </div>
               <div class="mask"></div>
             </div>
@@ -75,7 +75,7 @@
             <div class="hexagon-service">
               <span class="num num-violeta">5</span>
               <div class="img">
-                <img src="http://localhost/TAREA_CPR/uploads/img/service-develop.png" alt="">
+                <img src="//uploads/img/service-develop.png" alt="">
               </div>
               <div class="mask"></div>
             </div>
@@ -93,7 +93,7 @@
             <div class="hexagon-service">
               <span class="num num-azul">6</span>
               <div class="img">
-                <img src="http://localhost/TAREA_CPR/uploads/img/service-seo.png" alt="">
+                <img src="//uploads/img/service-seo.png" alt="">
               </div>
               <div class="mask"></div>
             </div>

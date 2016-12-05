@@ -11,7 +11,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
 
-    <div class="item active" style="background-image: url(http://localhost/TAREA_CPR/uploads/img/slider/item_1.jpg); background-size: 1220px 812px">
+    <div class="item active" style="background-image: url(/uploads/img/slider/item_1.jpg); background-size: 1220px 812px">
       <div class="container">
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-  <div class="item" style="background-image: url(http://localhost/TAREA_CPR/uploads/img/slider/item2.jpg);  background-size: 1220px 812px">
+  <div class="item" style="background-image: url(/uploads/img/slider/item2.jpg);  background-size: 1220px 812px">
     <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
@@ -37,7 +37,7 @@
     </div>
   </div>
 </div>
-<div class="item" style="background-image: url(http://localhost/TAREA_CPR/uploads/img/slider/image10.png);  background-size: 1800px 612px">				
+<div class="item" style="background-image: url(/uploads/img/slider/image10.png);  background-size: 1800px 612px">
   <div class="container">
   <div class="row">
     <div class="col-md-6 col-md-offset-3">
@@ -50,7 +50,7 @@
   </div>
 </div>
 </div>
-<div class="item" style="background-image: url(http://localhost/TAREA_CPR/uploads/img/slider/carousel-item-4.jpg);">				<div class="container">
+<div class="item" style="background-image: url(/uploads/img/slider/carousel-item-4.jpg);">				<div class="container">
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <div style="background-color:rgba(0,0,0,0.7);padding: 18px;border-radius: 14px;">

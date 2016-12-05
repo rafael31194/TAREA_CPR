@@ -9,8 +9,8 @@
   <meta name="keywords" content="XML, ASP, PHP, JSP, J2EE, .NET, SOFTWARE, FACTORY, web, página, alojamiento, Internet, soluciones, Tecnologia, movil, comercio, electrónico, e-commerce, e-business, B2B, B2C, gestión documental, gestión del conocimiento, bussines intelligent" />
   <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 
-  <link rel="shortcut icon" href="https://itsolutionscpr.herokuapp.com/favicon_1.ico">
-  <link rel="stylesheet" href="https://itsolutionscpr.herokuapp.com/theme/css/font-awesome.css">
+  <link rel="shortcut icon" href="/favicon_1.ico">
+  <link rel="stylesheet" href="/theme/css/font-awesome.css">
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@itsolutions">
@@ -20,17 +20,17 @@
   <meta name="twitter:domain" content="itsolutions.com">
 
   <!-- Facebook -->
-  <meta property="og:url" content="https://itsolutionscpr.herokuapp.com/">
+  <meta property="og:url" content="/">
   <meta property="og:title" content="ITSolutions | Desarrollo Informático | S.S., ES.">
   <meta property="og:description" content="ITSolutions es una empresa de consultoría y desarrollo de software, dedicada a brindar soluciones informáticas y a ofrecer servicios especializados el desarrollo e implementación de sistemas.">
 
-  <link rel="stylesheet" href="https://itsolutionscpr.herokuapp.com/theme/css/all.min.css">
+  <link rel="stylesheet" href="/theme/css/all.min.css">
 
   <!-- Google Fonts -->
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
   <!-- Jquery -->
-  <script type="text/javascript" src="https://itsolutionscpr.herokuapp.com/theme/js/jquery-2.1.0.min.js"></script>
+  <script type="text/javascript" src="/theme/js/jquery-2.1.0.min.js"></script>
   <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-34139801-1']);
@@ -73,7 +73,7 @@
   </section> <!-- section about -->
 
   <!-- SERVICIOS -->
-  <section class="section services" id="servicios" style="background: url(https://itsolutionscpr.herokuapp.com/uploads/img/services-bg.jpg);" data-stellar-background-ratio="1.5">
+  <section class="section services" id="servicios" style="background: url(/uploads/img/services-bg.jpg);" data-stellar-background-ratio="1.5">
     <?php
     include('sections/servicios.php')
     ?>
@@ -109,8 +109,8 @@
     ?>
   </footer>
 
-  <script src="https://itsolutionscpr.herokuapp.com/theme/front/js/validate.es_AR.js" type="text/javascript"></script>
-  <script src="https://itsolutionscpr.herokuapp.com/theme/front/js/frontend.es_AR.js" type="text/javascript"></script>
-  <script type="text/javascript" src="https://itsolutionscpr.herokuapp.com/theme/js/all.min.js"></script>
+  <script src="/theme/front/js/validate.es_AR.js" type="text/javascript"></script>
+  <script src="/theme/front/js/frontend.es_AR.js" type="text/javascript"></script>
+  <script type="text/javascript" src="/theme/js/all.min.js"></script>
 </body>
 </html>
