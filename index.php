@@ -10,7 +10,15 @@
   <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 
   <link rel="shortcut icon" href="/favicon_1.ico">
-  <link rel="stylesheet" href="/theme/css/font-awesome.css">
+  <link rel="stylesheet" href="/theme/css/font-awesome.min.css">
+  <script src="/theme/js/blazy.js"></script>
+     <script>
+         ;(function() {
+             // Initialize
+             var bLazy = new Blazy();
+         })();
+     </script>
+
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@itsolutions">
