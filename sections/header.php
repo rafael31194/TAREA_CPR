@@ -18,6 +18,7 @@
           <li><a class="ancla" href="#clientes">CLIENTES</a></li>
           <li><a class="ancla" href="#tecnologias">TECNOLOGIAS</a></li>
           <li><a class="ancla" href="#contacto">CONTACTO</a></li>
+          <li><a class="ancla" href="#fundadores">FUNDADORES</a></li>
           <li><a href="" title="Facebook" target="_blank"><i class="fa fa-facebook fa-2"></i></a></li>
           <li><a href="" title="Twitter" target="_blank"><i class="fa fa-twitter fa-2"></i></a></li>
           <li><a href="" title="LinkedIn" target="_blank"><i class="fa fa-linkedin fa-2"></i></a></li>
