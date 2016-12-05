@@ -3,7 +3,7 @@
   <nav class="navbar navbar-custom navbar-static-top" id="nav">
     <div class="container">
       <a href="#hello" class="navbar-brand nav-logo ancla" title="">
-        <img src="http://localhost/TAREA_CPR/uploads/img/logo_3.png" alt="Logo" style="height:68px;with:100px; margin-top:-10px;"/>
+        <img src="https://itsolutionscpr.herokuapp.com/uploads/img/logo_3.png" alt="Logo" style="height:68px;with:100px; margin-top:-10px;"/>
       </a>
       <button class="navbar-toggle navbar-right" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="icon-bar"></span>
