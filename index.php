@@ -27,7 +27,7 @@
   <link rel="stylesheet" href="/theme/css/all.min.css">
 
   <!-- Google Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
   <!-- Jquery -->
   <script type="text/javascript" src="/theme/js/jquery-2.1.0.min.js"></script>
