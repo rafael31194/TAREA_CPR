@@ -100,6 +100,10 @@
     <?php include('sections/contacto.php') ?>
   </section> <!-- section contact -->
 
+  <section class="section fundadores" id="fundadores">
+    <?php include('sections/fundadores.php') ?>
+  </section> <!-- section fundadores -->
+
   <!-- FOOTER -->
   <footer class="footer" id="footer">
     <?php
