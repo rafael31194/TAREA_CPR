@@ -1822,7 +1822,7 @@ H1{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .btn-green:hover,.btn-green:hover:after{background-color:#045883}
 .btn-carrot,.btn-carrot:after{background-color:#e74f17}
 .btn-carrot:hover,.btn-carrot:hover:after{background-color:#f26724}
-.btn-light,.btn-light:after{background:#00b4ff;color:#efefef;border-color:rgba(255,255,255,0.8)}
+.btn-light,.btn-light:after{background:#092643;color:#efefef;border-color:rgba(255,255,255,0.8)}
 .btn-light:hover,.btn-light:hover:after{background-color:rgba(255,255,255,0.9);color:#444;border-color:rgba(255,255,255,0.9)}
 .btn-ghost{color:#FFF}
 .btn-ghost:hover,.btn-ghost:after{color:#FFF;text-decoration:underline}
