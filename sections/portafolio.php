@@ -25,7 +25,7 @@
         </span>
       </span>
     </span>
-    <img src="/uploads/img/portfolio/wb_ios_web.jpg" class="img-responsive" alt="">
+    <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/wb_ios_web.jpg" class="img-responsive" alt="">
   </span>
   <span class="portfolio-item 2">
     <span class="portfolio-hover">
@@ -36,7 +36,7 @@
         </span>
       </span>
     </span>
-    <img src="/uploads/img/portfolio/f_android_web.jpg" class="img-responsive" alt="">
+    <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/f_android_web.jpg" class="img-responsive" alt="">
   </span>
   <span class="portfolio-item 2">
     <span class="portfolio-hover">
@@ -47,7 +47,7 @@
         </span>
       </span>
     </span>
-    <img src="/uploads/img/portfolio/wm_android_web.jpg" class="img-responsive" alt="">
+    <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/wm_android_web.jpg" class="img-responsive" alt="">
   </span>
   <span class="portfolio-item 2">
     <span class="portfolio-hover">
@@ -58,7 +58,7 @@
         </span>
       </span>
     </span>
-    <img src="/uploads/img/portfolio/aq_bb_web.jpg" class="img-responsive" alt="">
+    <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/aq_bb_web.jpg" class="img-responsive" alt="">
   </span>
   <span class="portfolio-item 3">
     <span class="portfolio-hover">
@@ -70,7 +70,7 @@
           </span>
         </span>
       </span>
-      <img src="/uploads/img/portfolio/sgos.jpg" class="img-responsive" alt="">
+      <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/sgos.jpg" class="img-responsive" alt="">
     </span>
     <span class="portfolio-item 3">
       <span class="portfolio-hover">
@@ -81,7 +81,7 @@
           </span>
         </span>
       </span>
-      <img src="/uploads/img/portfolio/abc4.png" class="img-responsive" alt="">
+      <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/abc4.png" class="img-responsive" alt="">
     </span>
     <span class="portfolio-item 3">
       <span class="portfolio-hover">
@@ -92,7 +92,7 @@
           </span>
         </span>
       </span>
-      <img src="/uploads/img/portfolio/financiera2.png" class="img-responsive" alt="">
+      <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/financiera2.png" class="img-responsive" alt="">
     </span>
     <span class="portfolio-item 3">
       <span class="portfolio-hover">
@@ -103,7 +103,7 @@
           </span>
         </span>
       </span>
-      <img src="/uploads/img/portfolio/treo2.jpg" class="img-responsive" alt="">
+      <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/treo2.jpg" class="img-responsive" alt="">
     </span>
     <span class="portfolio-item 3">
       <span class="portfolio-hover">
@@ -115,7 +115,7 @@
             </span>
           </span>
         </span>
-        <img src="/uploads/img/portfolio/inmobiliaria.png" class="img-responsive" alt="">
+        <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/inmobiliaria.png" class="img-responsive" alt="">
       </span>
       <span class="portfolio-item 3">
         <span class="portfolio-hover">
@@ -126,7 +126,7 @@
             </span>
           </span>
         </span>
-        <img src="/uploads/img/portfolio/transac1.png" class="img-responsive" alt="">
+        <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/transac1.png" class="img-responsive" alt="">
       </span>
       <span class="portfolio-item 1">
         <span class="portfolio-hover">
@@ -137,7 +137,7 @@
             </span>
           </span>
         </span>
-        <img src="/uploads/img/portfolio/ifes.jpg" class="img-responsive" alt="">
+        <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/ifes.jpg" class="img-responsive" alt="">
       </span>
       <span class="portfolio-item 1">
         <span class="portfolio-hover">
@@ -149,7 +149,7 @@
               </span>
             </span>
           </span>
-          <img src="/uploads/img/portfolio/neunet.jpg" class="img-responsive" alt="">
+          <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/neunet.jpg" class="img-responsive" alt="">
         </span>
         <span class="portfolio-item 1">
           <span class="portfolio-hover">
@@ -160,7 +160,7 @@
               </span>
             </span>
           </span>
-          <img src="/uploads/img/portfolio/aqualic.jpg" class="img-responsive" alt="">
+          <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/aqualic.jpg" class="img-responsive" alt="">
         </span>
         <span class="portfolio-item 4">
           <span class="portfolio-hover">
@@ -171,7 +171,7 @@
               </span>
             </span>
           </span>
-          <img src="/uploads/img/portfolio/neunet1.jpg" class="img-responsive" alt="">
+          <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/neunet1.jpg" class="img-responsive" alt="">
         </span>
         <span class="portfolio-item 4">
           <span class="portfolio-hover">
@@ -182,7 +182,7 @@
               </span>
             </span>
           </span>
-          <img src="/uploads/img/portfolio/anel.jpg" class="img-responsive" alt="">
+          <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/anel.jpg" class="img-responsive" alt="">
         </span>
         <span class="portfolio-item 4">
           <span class="portfolio-hover">
@@ -194,7 +194,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/lamar.jpg" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/lamar.jpg" class="img-responsive" alt="">
           </span>
           <span class="portfolio-item 5">
             <span class="portfolio-hover">
@@ -205,7 +205,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/arteenvivo.jpg" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/arteenvivo.jpg" class="img-responsive" alt="">
           </span>
           <span class="portfolio-item 5">
             <span class="portfolio-hover">
@@ -216,7 +216,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/positron.jpg" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/positron.jpg" class="img-responsive" alt="">
           </span>
           <span class="portfolio-item 1">
             <span class="portfolio-hover">
@@ -227,7 +227,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/casinomagic.jpg" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/casinomagic.jpg" class="img-responsive" alt="">
           </span>
           <span class="portfolio-item 4">
             <span class="portfolio-hover">
@@ -238,7 +238,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/clubmas.jpg" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/clubmas.jpg" class="img-responsive" alt="">
           </span>
           <span class="portfolio-item 5">
             <span class="portfolio-hover">
@@ -249,7 +249,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/cpec.jpg" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/cpec.jpg" class="img-responsive" alt="">
           </span>
           <span class="portfolio-item 2">
             <span class="portfolio-hover">
@@ -260,7 +260,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/clubmas1.jpg" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/clubmas1.jpg" class="img-responsive" alt="">
           </span>
           <span class="portfolio-item 1">
             <span class="portfolio-hover">
@@ -271,7 +271,7 @@
                 </span>
               </span>
             </span>
-            <img src="/uploads/img/portfolio/ctc_outsourcing.png" class="img-responsive" alt="">
+            <img src="https://itsolutionscpr.herokuapp.com/uploads/img/portfolio/ctc_outsourcing.png" class="img-responsive" alt="">
           </span>
 
         </div> <!-- isotope -->
